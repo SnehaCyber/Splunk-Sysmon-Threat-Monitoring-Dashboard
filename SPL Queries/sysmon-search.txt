@@ -1,0 +1,1 @@
+source="XmlWinEventLog:Microsoft-Windows-Sysmon/Operational"
